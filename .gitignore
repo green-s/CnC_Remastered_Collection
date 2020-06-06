@@ -1,0 +1,6 @@
+REDALERT/Win32/Release/*
+TIBERIANDAWN/Win32/Release/*
+bin/Win32/*
+.vs/*
+*.VC.db
+*.user
