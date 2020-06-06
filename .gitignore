@@ -4,3 +4,4 @@ bin/Win32/*
 .vs/*
 *.VC.db
 *.user
+.vscode/
